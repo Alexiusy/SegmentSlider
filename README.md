@@ -1,7 +1,7 @@
 # SegmentSlider
 一个分段式的slider。
 
-![slider](https://s19.aconvert.com/convert/p3r68-cdx67/k5gez-iy64e.gif)
+![slider](https://wx2.sinaimg.cn/mw690/5ea6189fgy1fwfx1bogqlg20f00qob29.gif)
 
 ## Feature
 1. 按照`0`， `0.25`， `0.5`， `0.75`， `1`对 `slider` 进行节点划分；
